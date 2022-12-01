@@ -10,5 +10,4 @@ public class TwitterKafkaMongoAppApplication {
     public static void main(String[] args) {
         SpringApplication.run(TwitterKafkaMongoAppApplication.class, args);
     }
-
 }
